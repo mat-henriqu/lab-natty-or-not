@@ -4,7 +4,6 @@
 
 > Woooow! Look at this 👀
 
-### Objetivos
 
 ### Template
 
